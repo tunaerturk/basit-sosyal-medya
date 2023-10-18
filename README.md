@@ -1,2 +1,3 @@
 # basit-sosyal-medya
-Basit Bir Sosyal Medya Sitesi
+ - Kullanıcı Kayıtı ve Girişine sahip basit bir sosyal medya scripti
+ - Sadece metin paylaşımına izin veriliyor
